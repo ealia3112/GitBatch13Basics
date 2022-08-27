@@ -5,6 +5,8 @@ public class gitBasics {
 
         //write down a code tghat checks the temp from a websitee than print out that is it a beautiful day or not
         System.out.println("today is not a beautiful day ");
+        System.out.println("today is not a beautiful day ");
+        System.out.println("today is not a beautiful day ");
     }
 
 }
